@@ -16,3 +16,4 @@ Feel free to reach out if you share similar interests or if you have exciting pr
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanxtron&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=151515)
 
+## Examples
