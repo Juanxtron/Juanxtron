@@ -1,16 +1,13 @@
 ## Hi there 👋
+## About Me
 
-<!--
-**Juanxtron/Juanxtron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on various projects related to artificial intelligence and operations research.
+- 🌱 I’m currently learning advanced techniques in AI, financial modeling, and optimization.
+- 👯 I’m looking to collaborate on projects involving AI in medicine, real estate, and image analysis.
+- 🤔 I’m looking for help with exploring innovative applications of AI in different industries.
+- 💬 Ask me about AI, finance, optimization, and simulation. I'm always excited to discuss these topics!
+- 📫 How to reach me: [jpcanceladocaro@gmail.com](mailto:jpcanceladocaro@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm an industrial engineering student at Universidad de los Andes, passionate about integrating AI with finance and operations research.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out if you share similar interests or if you have exciting project ideas to discuss. Let's innovate together!
