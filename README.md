@@ -14,7 +14,5 @@ Feel free to reach out if you share similar interests or if you have exciting pr
 
 ## My GitHub Stats
 
-![Juanxtron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Juanxtron&show_icons=true&hide=issues,contribs&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=151515)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanxtron&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=151515)
 
