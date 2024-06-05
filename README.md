@@ -19,49 +19,48 @@ Feel free to reach out if you share similar interests or if you have exciting pr
 ## Examples
 
 
-# TECHNOLOGIES 💻
+# Technologies 💻
 
-## PROGRAMMING LANGUAGES 👩‍💻
-<p>
-  <img src="icons/python.png" alt="Python" width="40" height="40"/>
-  <img src="icons/java.png" alt="Java" width="40" height="40"/>
-  <img src="icons/javascript.png" alt="JavaScript" width="40" height="40"/>
-  <img src="icons/typescript.png" alt="TypeScript" width="40" height="40"/>
-  <img src="icons/csharp.png" alt="C#" width="40" height="40"/>
-  <img src="icons/cplusplus.png" alt="C++" width="40" height="40"/>
-</p>
+## Programming Languages 👩‍💻
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
-## FRONT-END 🌿
-<p>
-  <img src="icons/html5.png" alt="HTML5" width="40" height="40"/>
-  <img src="icons/css3.png" alt="CSS3" width="40" height="40"/>
-  <img src="icons/angular.png" alt="Angular" width="40" height="40"/>
-  <img src="icons/react.png" alt="React" width="40" height="40"/>
-  <img src="icons/next.png" alt="Next.js" width="40" height="40"/>
-  <img src="icons/sass.png" alt="Sass" width="40" height="40"/>
-  <img src="icons/tailwindcss.png" alt="TailwindCSS" width="40" height="40"/>
-</p>
+## Front-End 🌿
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## BACK-END 🔧
-<p>
-  <img src="icons/nodejs.png" alt="Node.js" width="40" height="40"/>
-  <img src="icons/expressjs.png" alt="Express.js" width="40" height="40"/>
-  <img src="icons/spring.png" alt="Spring" width="40" height="40"/>
-  <img src="icons/next.png" alt="Next.js" width="40" height="40"/>
-</p>
+## Back-End 🔧
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-## DATABASES 📍
-<p>
-  <img src="icons/mongodb.png" alt="MongoDB" width="40" height="40"/>
-  <img src="icons/mysql.png" alt="MySQL" width="40" height="40"/>
-</p>
+## Databases 📍
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## MACHINE LEARNING / IA 🤖
-<p>
-  <img src="icons/scikit-learn.png" alt="Scikit-learn" width="40" height="40"/>
-  <img src="icons/tensorflow.png" alt="TensorFlow" width="40" height="40"/>
-  <img src="icons/keras.png" alt="Keras" width="40" height="40"/>
-  <img src="icons/numpy.png" alt="NumPy" width="40" height="40"/>
-  <img src="icons/pandas.png" alt="Pandas" width="40" height="40"/>
-  <img src="icons/matplotlib.png" alt="Matplotlib" width="40" height="40"/>
-</p>
+## Machine Learning / AI 🤖
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=matplotlib&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
