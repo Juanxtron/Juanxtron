@@ -16,9 +16,6 @@ Feel free to reach out if you share similar interests or if you have exciting pr
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanxtron&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=151515)
 
-## Examples
-
-
 # Technologies 💻
 
 ## Programming Languages 👩‍💻
@@ -44,6 +41,8 @@ Feel free to reach out if you share similar interests or if you have exciting pr
 
 ## Machine Learning / AI 🤖
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+# Examples
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
