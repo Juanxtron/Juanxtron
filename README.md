@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on projects involving AI in medicine, real estate, and image analysis.
 - 🤔 I’m looking for help with exploring innovative applications of AI in different industries.
 - 💬 Ask me about AI, finance, optimization, and simulation. I'm always excited to discuss these topics!
-- 📫 How to reach me: [jpcanceladocaro@gmail.com](mailto:jpcanceladocaro@gmail.com) / [www.linkedin.com](mailto:https://www.linkedin.com/in/juan-pablo-cancelado-caro/) 
+- 📫 How to reach me: [jpcanceladocaro@gmail.com](mailto:jpcanceladocaro@gmail.com) / [www.linkedin.com](https://www.linkedin.com/in/juan-pablo-cancelado-caro/) 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm an industrial engineering student at Universidad de los Andes, passionate about integrating AI with finance and operations research.
 
