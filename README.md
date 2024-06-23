@@ -1,4 +1,4 @@
-# 👤 About Me
+# 👤 **About Me**
 
 👨‍💼 **Profession:** Industrial Engineer with an emphasis on Operations Research.
 
@@ -18,7 +18,7 @@
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/)
 
 
-# 🔧 TECHNOLOGIES
+# 🔧 **TECHNOLOGIES**
 
 ## 🧑‍💻 PROGRAMMING LANGUAGES 🧑‍💻
 
