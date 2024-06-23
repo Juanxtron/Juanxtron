@@ -24,6 +24,12 @@
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-E4405F?style=for-the-badge&logo=firefox&logoColor=white)](enlace-a-tu-portafolio)
 
+## 🌐 LANGUAGES I SPEAK
+
+- 🇪🇸 **Spanish**: Native
+- 🇬🇧 **English**: Advanced
+- 🇵🇹 **Portuguese**: Intermediate
+
 
 
 # 🔧 **TECHNOLOGIES**
