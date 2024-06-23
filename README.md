@@ -14,8 +14,16 @@
 - **Universidad de los Andes** - Industrial Engineering
 
 📫 **Contact:**
-- Email: [jpcanceladocaro@gmail.com](mailto:jpcanceladocaro@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/juan-pablo-cancelado-caro/))
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpcanceladocaro@gmail.com)
+
+## ❄️ CV ❄️
+
+[![CV](https://img.shields.io/badge/-CV-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](enlace-a-tu-cv)
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-E4405F?style=for-the-badge&logo=firefox&logoColor=white)](enlace-a-tu-portafolio)
+
 
 
 # 🔧 **TECHNOLOGIES**
