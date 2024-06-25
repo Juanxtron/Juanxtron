@@ -9,6 +9,8 @@
 - 🔍 Data analysis and research.
 - 💻 Machine Learning and Deep Learning.
 - 📈 Optimization and simulation.
+
+  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-E4405F?style=for-the-badge&logo=firefox&logoColor=white)](enlace-a-tu-portafolio)
 
 🎓 **Education:**
