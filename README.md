@@ -5,12 +5,10 @@
 💡 **Passionate about:**
 - 🤖 Artificial Intelligence in industries such as finance, medicine, operations research, and logistics.
 - 📊 The world of data and how to generate solutions through it.
+- 🎨 Using color psychology and design principles to create clear and insightful data visualizations.
 - 🌐 Software and web application development.
-- 🔍 Data analysis and research.
-- 💻 Machine Learning and Deep Learning.
 - 📈 Optimization and simulation.
 
-  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-E4405F?style=for-the-badge&logo=firefox&logoColor=white)](enlace-a-tu-portafolio)
 
 🎓 **Education:**
