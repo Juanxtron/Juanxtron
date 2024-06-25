@@ -23,7 +23,6 @@
 
 [![CV](https://img.shields.io/badge/-CV-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Juanxtron/Juanxtron/blob/main/CV%20Juan%20Pablo%20Cancelado%20Caro.pdf)
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-E4405F?style=for-the-badge&logo=firefox&logoColor=white)](enlace-a-tu-portafolio)
 
 # 🌐 LANGUAGES I SPEAK
 
