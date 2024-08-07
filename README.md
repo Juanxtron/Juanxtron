@@ -9,7 +9,7 @@
 - 🌐 Software and web application development.
 - 📈 Optimization and simulation.
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-E4405F?style=for-the-badge&logo=firefox&logoColor=white)](enlace-a-tu-portafolio)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-E4405F?style=for-the-badge&logo=firefox&logoColor=white)](https://juanxtron.github.io/index.html)
 
 🎓 **Education:**
 - **Universidad de los Andes** - Industrial Engineering
